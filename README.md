@@ -1,0 +1,2 @@
+# SpringGreeting
+Simple spring project
